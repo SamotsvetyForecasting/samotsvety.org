@@ -2,9 +2,10 @@
 
 The Samotsvety Forecasting team at INFER/CSET-Foretell—composed out of Nuño, Misha, Eli—took:
 
-- [1st place in 2020](https://www.infer-pub.com/leaderboards/teams?seasonid=1), with a relative score of -0.912 (vs. -0.062 by the 2nd best team). Individually we finished [5th, 6th, and 7th](https://www.infer-pub.com/leaderboards/seasons/1).
-- [1st place in 2021](https://www.infer-pub.com/leaderboards/teams?seasonid=2) with a relative score of -2.43 (vs. -1.039 by the 2nd best team and vs. 0.064 by “2021 Pro Forecasters”). Individually we finished [1st, 3rd, and 4th](https://www.infer-pub.com/leaderboards/seasons/2).
-- We still hold [1st place in 2022](https://www.infer-pub.com/leaderboards/teams?seasonid=3), despite us reducing our participation.
+- [1st place in 2020](https://www.infer-pub.com/leaderboards/teams?season_id=1), with a relative score of -0.912 (vs. -0.062 by the 2nd best team). Individually we finished [5th, 6th, and 7th](https://www.infer-pub.com/leaderboards/seasons/1).
+- [1st place in 2021](https://www.infer-pub.com/leaderboards/teams?season_id=2) with a relative score of -3.259 (vs. -0.889 by the 2nd best team and vs. -0.267 by “Pro Forecasters”). Individually we finished [1st, 2nd, 4th and 5th](https://www.infer-pub.com/leaderboards/seasons/2).
+- We still hold [1st, 2nd, 3rd, 4th](https://www.infer-pub.com/leaderboards/overall) places in INFER's all time ranking.
+- We still hold [1st place in 2022](https://www.infer-pub.com/leaderboards/teams?season_id=3), despite us reducing our participation.
 - A few of our forecasters have now become Superforecasters™, indicated below.
 
 The above links require signing in, so here is a screenshot of our performance in the 2021 season:
@@ -28,15 +29,16 @@ Individually, Samotsvety members are, as of 2022-09-15, occupying all top 4 spot
 For each forecaster below, the time at which their profile was last updated is indicated in a superscript.
 
 #### Misha Yagudin<sup>2023-05-27</sup>
+
 - Runs a research consultancy [Arb Research](https://arbresearch.com/)
 - [GJOpen](https://www.gjopen.com/forecaster/yagudin) Brier score 0.185 vs. 0.275 median, ratio 0.67
-- 7th and 3rd place forecaster in the first two seasons of CSET-Foretell/INFER ([I](https://www.infer-pub.com/leaderboards/seasons/1), [II](https://www.infer-pub.com/leaderboards/seasons/2)); [3rd](https://www.infer-pub.com/forecaster/yagudin/performance?alltime=true) all-time (as of 2022/9/15).
+- 7th and 3rd place forecaster in the first two seasons of CSET-Foretell/INFER ([I](https://www.infer-pub.com/leaderboards/seasons/1), [II](https://www.infer-pub.com/leaderboards/seasons/2)); [3rd](https://www.infer-pub.com/forecaster/yagudin/performance?all_time=true) all-time (as of 2022/9/15).
 
 #### Nuño Sempere<sup>2023-05-27</sup>
 
 - Indepedent consultant at [Shapley Maximizers ÖU](https://nunosempere.com/consulting/), previously a researcher at the Quantified Uncertainty Research Institute.
 - [GJOpen](https://www.gjopen.com/forecaster/LokiOdinevich) Brier score 0.206 vs. 0.29 median, ratio 0.71
-- Top 5 forecaster in the first two seasons of CSET-Foretell/INFER ([I](https://www.infer-pub.com/leaderboards/seasons/1),[II](https://www.infer-pub.com/leaderboards/seasons/2)); [4th](https://www.infer-pub.com/forecaster/loki/performance?alltime=true) all-time (as of 2022/9/15)
+- Top 5 forecaster in the [first season](https://www.infer-pub.com/leaderboards/seasons/1) of INFER, 2nd best in the [second season](https://www.infer-pub.com/leaderboards/seasons/2); [2nd](https://www.infer-pub.com/forecaster/loki/performance?all_time=true) all-time (as of 2024/02/03)
 
 #### Alex Lyzhov<sup>2023-05-27</sup>
 
@@ -48,7 +50,7 @@ For each forecaster below, the time at which their profile was last updated is i
 
 - Figuring out what's up with AI alignment (and sometimes other stuff), writing [Foxy Scout](https://www.foxy-scout.com/).
 - [GJOpen](https://www.gjopen.com/forecaster/elifland) Brier score 0.23 vs. 0.301 median, ratio 0.76
-- [1st](https://www.infer-pub.com/forecaster/elifland/performance?alltime=true) forecaster of all time on CSET-Foretell/INFER (as of 2022/9/15)
+- [1st](https://www.infer-pub.com/forecaster/elifland/performance?all_time=true) forecaster of all time on CSET-Foretell/INFER, as well as for seasons [one](https://www.infer-pub.com/leaderboards/seasons/1) and [two](https://www.infer-pub.com/leaderboards/seasons/2) individually (as of 2024/02/04)
 - 2nd in Metaculus [Economist 2021 tournament](https://www.metaculus.com/questions/11438/economist-2021-tournament-winners/), 1st in [Salk Tournament](https://pandemic.metaculus.com/contests/?selected=salk-tournament) (as of 2022/9/10).
 - Track record is described in detail [here](https://www.lesswrong.com/posts/XAkhqkNQByEaT8MED/personal-forecasting-retrospective-2020-2022)
 
@@ -82,7 +84,7 @@ For each forecaster below, the time at which their profile was last updated is i
 #### Molly Hickman<sup>2023-05-27</sup>
 
 - Data analyst at the [Forecasting Research Institute](https://forecastingresearch.org/)
-- [Top 2](https://www.infer-pub.com/forecaster/mollygh) forecaster of all time on [INFER](https://www.infer-pub.com/) (as of 2022/9/15); [2nd place forecaster in season 2021](https://www.infer-pub.com/leaderboards/seasons/2) (-1.684 relative Brier score); [8th place forecaster in season 2020](https://www.infer-pub.com/leaderboards/seasons/1) (-0.529 relative Brier score)
+- [Top 3](https://www.infer-pub.com/leaderboards/overall) forecaster of all time on [INFER](https://www.infer-pub.com/) (as of 2024/01/04); [4th place forecaster in season 2021](https://www.infer-pub.com/leaderboards/seasons/2) (-1.624 relative Brier score); [8th place forecaster in season 2020](https://www.infer-pub.com/leaderboards/seasons/1) (-0.529 relative Brier score)
 
 #### Gregory Lewis<sup>2023-05-27</sup>
 
