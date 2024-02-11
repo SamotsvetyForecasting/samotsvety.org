@@ -1,3 +1,53 @@
+1-Year Post-mortem Analysis
+============================
+
+Prediction: Reject ISL and overturn NCSC ruling (81%).
+
+Outcome: Reject ISL and uphold NCSC ruling. 
+
+SCOTUS's decision in Moore v Harper is a great case to post-mortem, because it illustrates some potential pitfalls in base rate-driven forecasting. My errors here fall into three domains: base rate specificity, inside view adjustment, and cognitive bias. 
+
+It's easy to look at a case like this and say, "19% chance isn't 0% chance, we just got unlucky, this case just happened to be one of the few times we're wrong." But this is a very detrimental mindset for forecasting. It would mean no forecast could ever be wrong, and every wrong forecast is just "bad luck". We shouldn't overreact to cases like this, because we do expect them to happen. But it's also critical to find what we should've done differently. 
+
+
+### Base Rate Specificity
+
+If you rely on high-level base rates, as I did here, you'll get a very low probability for SCOTUS's actual ruling. From the analysis, SCOTUS only upholds state court rulings in 24% of the cases it hears. Moreover, we end up near the same place using several other base rates.
+
+For cases from the 2017-2021 terms (5 years) with 9 justices voting[^1]:
+- % of judgments affirming the lower court in "controversial" cases (decided by 5-4 or 6-3 margin): 25%
+- % of judgments affirming the lower court in civil rights cases: 22% uphold
+- % of judgments affirming a liberal decision from a lower court: 17%
+- % of SCOTUS rulings leaning in a "liberal" direction: 41% 
+
+A simple average of the alternate base rate options gives a rate of 26%, only 2% higher than the base rate used in the original analysis. The highest base rate of 41% is still <50%. But the problem is that the base rates are too general. 
+
+Base rates can fail when a particular case has features that a) are rare among base rate set members, and b) have a strong causal relation to the outcome of interest. That was the case in Moore v. Harper, an overturn ruling would've been unusually disruptive and unusually difficult to define (see below). Ideally, I would've had a base rate based on disruptive/impractical rulings, but unfortunately those qualities are difficult to quantify. As a stop gap, I should've been more open to inside view adjustments, which I'll dive into next. 
+
+
+### Inside view adjustment
+
+This analysis included a very lengthy inside view discussion, but it missed an important domain that determines SCOTUS rulings. Specifically, it focused on ideology and didn't pay sufficient attention to practicality. I assumed that SCOTUS would simply figure out how to word a rule describing their ideological position. But the justices discussed the difficulty of defining a clear rule at great length in oral arguments, and ultimately refused to draw one at all. They ruled similarly in another recent case, Health and Hospital Corporation of Marion County v. Talevski, upholding old and contentious standards drawn by liberal judges (drawn in 5-4 liberal decisions even), apparently for lack of a better practicable alternative[^2]. Practicality seems to be much more of a factor than I’d given it credit for, even in politically charged cases like Moore v Harper.
+
+
+### Cognitive bias
+
+I feel I succumbed to a cognitive bias here as well, which is confidence inappropriately scaling up with volume of research done. When I dig super deep into a subject, I find it tempting to take a more confident/extreme view of that subject. The intuition is that doing more research must mean I have more useful knowledge, and therefore my forecast should be closer to correct (i.e. more extreme). But, as I've seen in multiple cases now, sometimes when you gather a large volume of knowledge about a subject, very little of it is actually useful in forecasting the result you care about. I believe that was the case here. I gained plenty of insights on the justices' views on ISL theory, but little on how they'd judge the NCSC's specific conduct. The best assessment of SCOTUS's viewpoint in hindsight is that the NCSC's conduct was extreme, but is subject to an extreme standard of review, and that standard is very difficult to nail down. That means the inside view should've been uncertain (50/50) or skewed toward upholding the lower court. Adjustment from the 24% base rate should've been upward, not downwards.
+
+
+### Summary
+
+This forecast could've been less wrong. Ideally, the base rate would've accounted for Moore v. Harper's uncommon and causally relevant features, namely its potential for disruption and the difficulty of articulating a clear standard of review for the conduct in question. Short of collecting novel data on that front, inside view adjustments should've favored upholding the lower court based on the concerns about practicality and disruption.
+
+
+### References
+
+[^1]: Harold J. Spaeth, Lee Epstein, Andrew D. Martin, Jeffrey A. Segal, Theodore J. Ruger, and Sara C. Benesh. 2023 Supreme Court Database, Version 2023 Release 01. URL: http://supremecourtdatabase.org
+
+[^2]: Unikowsky, A. (2023, June 24). Sometimes you just have to muddle through. https://adamunikowsky.substack.com/p/sometimes-you-just-have-to-muddle
+
+
+
 [Draft] Report on Moore v. Harper and the future of US democracy
 ================================================================
 
