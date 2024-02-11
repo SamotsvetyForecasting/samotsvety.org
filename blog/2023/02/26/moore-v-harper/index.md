@@ -42,9 +42,9 @@ This forecast could've been less wrong. Ideally, the base rate would've accounte
 
 ### References
 
-[^1]: Harold J. Spaeth, Lee Epstein, Andrew D. Martin, Jeffrey A. Segal, Theodore J. Ruger, and Sara C. Benesh. 2023 Supreme Court Database, Version 2023 Release 01. URL: http://supremecourtdatabase.org
+1: Harold J. Spaeth, Lee Epstein, Andrew D. Martin, Jeffrey A. Segal, Theodore J. Ruger, and Sara C. Benesh. 2023 Supreme Court Database, Version 2023 Release 01. URL: http://supremecourtdatabase.org
 
-[^2]: Unikowsky, A. (2023, June 24). Sometimes you just have to muddle through. https://adamunikowsky.substack.com/p/sometimes-you-just-have-to-muddle
+2: Unikowsky, A. (2023, June 24). Sometimes you just have to muddle through. https://adamunikowsky.substack.com/p/sometimes-you-just-have-to-muddle
 
 
 
