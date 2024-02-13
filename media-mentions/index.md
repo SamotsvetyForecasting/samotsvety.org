@@ -2,7 +2,7 @@
 
 N.B.: We are open to media mentions or collaborations, and can be reached at [info@samotsvety.org](mailto:info@samotsvety.org).
 
-[Vox: How a ragtag band of internet friends became the best at forecasting world events](https://www.vox.com/future-perfect/2024/2/13/24070864/samotsvety-forecasting-superforecasters-tetlock):
+[Vox: How a ragtag band of internet friends became the best at forecasting world events](https://www.vox.com/future-perfect/2024/2/13/24070864/samotsvety-forecasting-superforecasters-tetlock) ([a](https://web.archive.org/web/20240213200632/https://www.vox.com/future-perfect/2024/2/13/24070864/samotsvety-forecasting-superforecasters-tetlock)):
 
 > At Infer, a major forecasting platform operated by Rand, the four most accurate forecasters in the site’s history are all members of Samotsvety, and there is a wide gap between them and fifth place. In fact, the gap between them and fifth place is bigger than between fifth and 10th places. They’re waaaaay out ahead.
 
