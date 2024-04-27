@@ -141,7 +141,7 @@ For each forecaster below, the time at which their profile was last updated is i
 - GJ Open Brier score 0.276 vs. 0.372 median, ratio 0.74
 - 4th place forecaster for both initial and final forecast in the Good Judgment Project 2.0 (GJP 2.0) COVID-19 forecasting tournament
 
-#### Chinmay Ingalawi<sup>2024-04-26</sup>
+### Chinmay Ingalagavi <sup>2024-04-26</sup>
 
 - Economics PhD student at UC Berkeley
 - INFER Pro Forecaster and Top 25 in 2021, 2022
