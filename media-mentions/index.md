@@ -10,6 +10,8 @@ N.B.: We are open to media mentions or collaborations, and can be reached at [in
 
 > To Matheny, it’s a crying shame, and he wishes that government institutions and think tanks like his would get back into the habit and act a bit more like Samotsvety. “People might assume that the methods that we use in most institutions that are responsible for analysis have been well-evaluated. And in fact, they haven’t. Even when there are organizations whose decisions cost billions of dollars or even trillions, billions of dollars in the case of key national security decisions,” he told me. Forecasting, by contrast, works. So what are we waiting for?
 
+[NASDAQ:  A Look at Samotsvety Forecasting, One of the World's Best Predictors of the Future](https://www.nasdaq.com/articles/a-look-at-samotsvety-forecasting-one-of-the-worlds-best-predictors-of-the-future)
+
 [WIRED: Worried About Nuclear War? Consider the Micromorts](https://www.wired.co.uk/article/micromorts-nuclear-war) ([a](https://web.archive.org/web/20221030121813/https://www.wired.co.uk/article/micromorts-nuclear-war)) covers our group at some length throughout the article.
 
 > In October, the Samotsvety group updated their predictions. In a [blog post](https://forum.effectivealtruism.org/posts/2nDTrDPZJBEerZGrk/samotsvety-nuclear-risk-update-october-2022) published on October 3, they estimated that the chance of London being hit with a nuclear weapon in the next three months was now around 0.02 percent. Since their previous prediction only covered a single month, it’s hard to directly compare these forecasts in terms of micromorts, but [Sempere estimates](https://www.squiggle-language.com/playground/#code=eNqVU8lu20AM%2FRXCpzaotwIGCiM9dAkKo01SwHZz0WUsURKREanOYsMI8u%2BlFieu06TIRRpuj%2B9xOHcDX8puGavKuP1gHlzEd63rIqMg7uAhpkDGLn9HKgqLy%2BCIi8F8MB7DJaVOKnEB0AeqTEAPOwolTKES1v8Gww6RNZwaawIJgw9Y%2B4QT1vqrmFo0DuKtM8SYsIuezNqj7yM3aGphv%2BB1lwEfYTKaTGYQpDnMOhQJCKE0QT8INTqSDCQHZYRAHizmASL7GlPKCbOT5lefVtcJPzK8jsFThn3Hb7TFQ%2Fcbo7xuMetYTDsS0xmAop0PISdrh8THWCtp0NecCutM1WGsFv9X5VnCAK9h9A9JDTvu7R%2FaXnis2aXeXRDN3lCx%2Fr5efqGwbxFa1ItnWnaC%2B6m%2Ff6L3COtU6sujOING6Kuo9EoXVW3SAMRgxQcoJTpdKrOxuJKmtMbPmIvrmPfEP5zyrg7r6zXtWRHtZbyZwhCewr8F1TC9bCn9dLLRjD0UovunHY318vAwgDISv%2BfUqagUcmUvzoOPaQnGQ4swhIXG0XhdMXGQ4cGonWQxDbRVco1mA6meXq6hhwn9lf3L2Ija0VPB2NL00W0VmYsudyfOZmDygE6twwbtiNXRY4xGo%2BYaWusr%2BdoaRb9rxgTwONP50bmLJXw%2FuP8DtRGUZA%3D%3D) that their projected risk for a Londoner over the next one-to-three months may now be around 40 micromorts
@@ -51,6 +53,22 @@ Epoch Times: [One in Six Chance of Worldwide Nuclear War: Physicist’s Post Goe
 [INFER: The Making of a Top Forecaster: Techniques to Boost Accuracy](https://www.infer-pub.com/blog/top-forecaster-techniques) ([a](https://web.archive.org/web/20220221032529/https://www.infer-pub.com/blog/top-forecaster-techniques)): 
 
 > The Good Judgment Project’s research also showed the value of working in teams. Teams who debated their forecasts (usually virtually) performed better than individuals working alone. Perhaps that’s yet another technique benefitting top forecaster Sempere (@Loki), who meets regularly with his two teammates, @yagudin (also in the top 1%) and @elifland, to discuss and evaluate questions from different angles.
+
+[The New York Times](https://www.nytimes.com/2025/04/03/technology/ai-futures-project-ai-2027.html):
+
+> he teamed up with Eli Lifland, an A.I. researcher who had a track record of accurately forecasting world events. They got to work trying to predict A.I.’s next wave.
+
+[Vox](https://www.vox.com/future-perfect/411742/ai-forecasting-prediction-metaculus-llm), Why humans are still much better than AI at forecasting the future
+
+> It’s also hard for us mortals to emulate what makes them so effective. I wrote a whole profile of one of the world’s best superforecaster teams, called the Samotsvety group, and despite their tips and tricks, I didn’t leave the experience as a superforecaster myself.
+
+[Spektrum](https://www.spektrum.de/news/die-zukunft-vorhersagen-wie-viel-wissenschaft-steckt-in-prognosen/2271081)
+
+> Der junge Forecaster Yagudin ist Mitgründer der internationalen Vorhersagegruppe Samotsvety, die 2020 einen der renommiertesten Wettbewerbe auf INFER gewann, einer Plattform für quantitative Vorhersagen. Die Gruppe zählt inzwischen 15 Mitglieder weltweit und arbeitet ausschließlich mit öffentlich zugänglichen Informationen. Insiderwissen? Brauchen sie nicht. Die Kunst einer guten Prognose bestehe darin, im Datenstrom Muster zu erkennen, die andere übersehen. »Oft hat eine kleine Beobachtung mehr Gewicht als 1000 Fakten«, sagt Yagudin.
+
+[Dwarkesh Patel](https://www.dwarkesh.com/p/scott-daniel):
+
+> Everyone else on the team, also extremely impressive. Eli Liflund, who’s a member of Samotsvety, the world’s top forecasting team. He has won, like, the top forecasting competition, plausibly described as just the best forecaster in the world, at least by these really technical measures that people use in the superforecasting community
 
 <br>
 
